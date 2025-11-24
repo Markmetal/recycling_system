@@ -1,0 +1,6 @@
+/* Archivo CSS adicional - modifique según gusto */
+body { background: #f8f9fa; }
+h1, h2, h3 { color: #343a40; }
+p { font-size: 16px; line-height: 1.5; color: #495057; }
+a { color: #007bff; text-decoration: none; }
+a:hover { text-decoration: underline; }         
